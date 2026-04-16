@@ -37,12 +37,14 @@ python -m venv venv
 source venv/bin/activate
 
 3. Bağımlılıkları Yükleyin
+4. 
 Gerekli kütüphaneleri (google-generativeai, streamlit, python-dotenv) yüklemek için:
 
 Bash
 pip install -r requirements.txt
 
 4. API Anahtarını Tanımlayın
+5. 
 Proje dizininde .env adında bir dosya oluşturun ve içine Gemini API anahtarınızı ekleyin:
 
 Kod snippet'i
