@@ -53,6 +53,7 @@ Modern ve kullanıcı dostu bir tarayıcı deneyimi için:
 
 Bash
 streamlit run web_app.py
+
 B. Terminal Arayüzü (CLI)
 Hızlı ve komut satırı odaklı bir deneyim için:
 
